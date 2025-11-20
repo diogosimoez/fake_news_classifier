@@ -148,5 +148,4 @@ Shows strong balance between classes and low misclassification.
 ## ✨ Author
 Project developed by **Diogo Simões, Javier Garcia and Keberth Rodriguez ** as part of the Ironhack Data Science Bootcamp.
 
-If you need help improving the notebook, visuals, or model pipeline, just ask!
 
